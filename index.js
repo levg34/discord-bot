@@ -14,6 +14,7 @@ client.on('message', message => {
   if (message.content === 'cul') {
     sort_message_id = message.id
   }
+  if (message.author.username === 'Francophony') message.reply('J\'ai oublié mon adresse email ! :(')
 })
 
 client.on('messageReactionAdd', (messageReaction, user) => {
