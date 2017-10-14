@@ -3,3 +3,9 @@ botX
 Client ID: 368786646168109056
 Client Secret:
 fgpfd5cBxf3sWx2ZVxIUkQ15cuZkXT8B
+
+https://discord.js.org/#/docs/main/stable/class/Client
+https://discordapp.com/developers/applications/me/368786646168109056
+https://discordapp.com/channels/@me/368823692433555458
+
+
