@@ -1,0 +1,5 @@
+botX
+
+Client ID: 368786646168109056
+Client Secret:
+fgpfd5cBxf3sWx2ZVxIUkQ15cuZkXT8B
